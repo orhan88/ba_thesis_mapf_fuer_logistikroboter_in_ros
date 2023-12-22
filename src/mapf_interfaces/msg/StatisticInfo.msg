@@ -1,0 +1,8 @@
+int64 step
+int64 highlevel_generated_nodes
+int64 highlevel_expanded_nodes
+int64 lowlevel_generated_nodes
+int64 lowlevel_expanded_nodes
+string name_algorithm
+float64 sum_of_cost
+float64 runtime
