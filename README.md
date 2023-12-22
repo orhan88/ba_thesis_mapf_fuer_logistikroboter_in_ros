@@ -1,4 +1,4 @@
-# READMY
+# README
 
 This project contains the simulation developed during the bachelor's thesis *"Multi-Agent Path Planning für Logistikroboter in ROS" (by Orchan Heupel)*
 
