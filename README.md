@@ -12,7 +12,7 @@ The repository contains the following five ROS2-packages:
 
 ## Documentation
 
-The documentation of the whole simulation you can find in the following paper (german):   
+The documentation of the whole simulation you can find in the following paper (in german):   
 *./docu/Bachelorarbeit_Multi_Agent_Paht_Planning_fuer_Logistikroboter_in_ROS.pdf*
 
 The documentation of the packages **mapf_simulation**, **mapf_controller** and **mapf_evaluator** you can find in the folder *./docu*. The documentation was created with pdoc. 
