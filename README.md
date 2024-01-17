@@ -1,6 +1,6 @@
 # README
 
-This project contains the simulation developed during the bachelor's thesis *"Multi-Agent Path Planning für Logistikroboter in ROS" (by Orchan Heupel)*
+This project contains the simulation developed during the bachelor's thesis *"Multi-Agent Path Planning für Logistikroboter in ROS"*
 
 The repository contains the following five ROS2-packages:
 * **mapf_simulation** (Graphical user interface and the visualization of the simulation)
