@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>mapf_pathplanner_pbs</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="orhan@todo.todo">orhan</maintainer>
-  <license>TODO: License declaration</license>
+  <version>0.0.1</version>
+  <description>PBS Path Planner with a ROS2-Interface</description>
+  <maintainer email="orchan.heupel@rwth-aachen.de">orhan</maintainer>
+  <license>Look for the file license.md</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
