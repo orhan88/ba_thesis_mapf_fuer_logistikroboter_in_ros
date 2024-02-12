@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>mapf_pathplanner_cbs</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>CBS Path Planner with ROS2 Interface</description>
   <maintainer email="orchan.heupel@rwth-aachen.de">orhan</maintainer>
   <license>Look for the file license.md</license>
